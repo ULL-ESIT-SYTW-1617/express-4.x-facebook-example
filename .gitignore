@@ -4,3 +4,6 @@
 # Node.js
 node_modules/
 npm-debug.log
+
+# Start shell script with the secret and ID
+.credentials.sh
