@@ -17,7 +17,7 @@ $ npm install
 consumer secret needed to access GitHub's API.  Start the server with those
 variables set to the appropriate credentials.
 ```bash
-$ CLIENT_ID=__FACEBOOK_CLIENT_ID__ CLIENT_SECRET=__FACEBOOK_CLIENT_SECRET__ node server.js
+$ CLIENT_ID=__GITHUB_CLIENT_ID__ CLIENT_SECRET=__GITHUB_CLIENT_SECRET__ node server.js
 ```
 * Navigate to [https://github.com/settings/developers](https://github.com/settings/developers) ans press **register new application** to get the values for the `ID` and `SECRET`
 * Open a web browser and navigate to [http://localhost:3000/](http://localhost:3000/)
