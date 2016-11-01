@@ -1,4 +1,4 @@
-This example is a fork from [passport/express-4.x-facebook-example](passport/express-4.x-facebook-example) and demonstrates how to use [Express](http://expressjs.com/) 4.x and
+This example is a fork from [passport/express-4.x-facebook-example](https://github.com/passport/express-4.x-facebook-example) and demonstrates how to use [Express](http://expressjs.com/) 4.x and
 [Passport](http://passportjs.org/) to authenticate users using GitHub.  Use
 this example as a starting point for your own web applications.
 
