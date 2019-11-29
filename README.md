@@ -2,6 +2,11 @@ This example is a fork from [passport/express-4.x-facebook-example](https://gith
 [Passport](http://passportjs.org/) to authenticate users using GitHub.  Use
 this example as a starting point for your own web applications.
 
+```
+[~/.../useoctonode/express-4.x-github-example(master)]$ pwd -P
+/Users/casiano/local/src/javascript/learning/useoctonode/express-4.x-github-example
+```
+
 ## Instructions
 
 To install this example on your computer, clone the repository and install
